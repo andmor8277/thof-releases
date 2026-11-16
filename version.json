@@ -1,11 +1,11 @@
 {
-  "version": "7.5.1",
-  "tagName": "v7.5.1",
-  "versionCode": 507,
-  "releaseName": "The Home of Football v7.5.1",
+  "version": "7.5.2",
+  "tagName": "v7.5.2",
+  "versionCode": 508,
+  "releaseName": "The Home of Football v7.5.2",
   "releaseNotes": "- Nuova: l'app avvisa da sola quando esiste una versione più recente, con il pulsante per scaricarla\n- Corretto: nel report Individuale il nome del giocatore selezionato non si vedeva (testo bianco su bianco)\n- Corretto: i nomi degli infortunati nella schermata squadra erano illeggibili\n- Corretto: il menu Colonne nelle liste tornei ora si chiude cliccando fuori o con Esc\n- Migliorato: i menu a tendina hanno ora la freccia, si capisce che si possono aprire\n- Nota: questa è la prima versione con l'avviso di aggiornamento: va installata una volta a mano, le successive si annunceranno da sole",
-  "publishedAt": "2026-11-16T07:59:54Z",
-  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.5.1/THOF.apk",
+  "publishedAt": "2026-11-16T08:02:41Z",
+  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.5.2/THOF.apk",
   "apkSizeMb": "5.1",
   "releasePageUrl": "https://github.com/andmor8277/thof-releases/releases/latest"
 }
