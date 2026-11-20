@@ -1,11 +1,11 @@
 {
-  "version": "7.6.0",
-  "tagName": "v7.6.0",
-  "versionCode": 531,
-  "releaseName": "The Home of Football v7.6.0",
-  "releaseNotes": "- Release v7.6.0 - Tornei di stagione (calendario, Lista Tornei auto-creata, ruoli sulle liste), CF in chiaro cifrati e create_all sotto advisory lock\n- fix: create_all sotto la advisory lock, e la FK che nessuno rimetteva su\n- ops: cifrare i CF in chiaro senza passare dalla rotta che li azzera\n- test(prod): baseline misurata a runtime, non numeri copiati nel file\n- Tornei di stagione: calendario, lista auto-creata, e ruoli sulle liste\n- run_suite_dev.sh: controlla anche i residui orfani nel DB di DEV\n- Documentato google_sub provato anche su PROD, con la diagnosi rapida\n- CHANGELOG: registrato il rilascio su PROD e i 50 secondi di downtime di deploy.sh\n- Sicurezza: chi crea un account non sceglie e non vede piu' la password\n- Sicurezza: niente password locale agli account Google, nemmeno per il super_admin\n- Sicurezza: un admin non puo' piu' entrare negli account altrui, e reset con password monouso\n- scripts/ops: rotazione segreti con prova, e DEV/PROD non condividono piu' la chiave\n- scripts/test: verifica post-deploy blocco login su PROD\n- Sicurezza: blocco dei tentativi di login per username, indipendente dall'IP\n- scripts/test: verifica post-deploy chiusura PII su PROD\n- scripts/test: verifica accessi PII su liste torneo e note infortuni\n- Sicurezza: CF e telefoni dei minori non escono piu' decifrati dalle liste torneo\n- scripts/test: verifica post-deploy su PROD per A1/A2/A8/A9 + invarianza conteggi\n- Ora di presentazione, confine societa' su categorie, PUT non distruttivi, errori di cancellazione\n- Registro presenze: confine di societa' sulle scritture + rimontaggio al cambio squadra\n- security: il form pubblico non si autenticava con niente, bastava l'ID\n- docs(CHANGELOG): le correzioni di sicurezza del 2026-11-16\n- security: rate limit inesistente, API esposta, cleartext e CA utente nell'APK",
-  "publishedAt": "2026-11-20T13:45:05Z",
-  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.6.0/THOF.apk",
+  "version": "7.7.0",
+  "tagName": "v7.7.0",
+  "versionCode": 533,
+  "releaseName": "The Home of Football v7.7.0",
+  "releaseNotes": "- Release v7.7.0 - Tornei suddivisi per categorie iscritte, con un foglio giocatori per categoria\n- Tornei con piu' categorie iscritte, e un foglio giocatori per categoria",
+  "publishedAt": "2026-11-20T14:32:41Z",
+  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.7.0/THOF.apk",
   "apkSizeMb": "5.1",
   "releasePageUrl": "https://github.com/andmor8277/thof-releases/releases/latest"
 }
