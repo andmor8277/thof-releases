@@ -1,11 +1,11 @@
 {
-  "version": "7.7.0",
-  "tagName": "v7.7.0",
-  "versionCode": 533,
-  "releaseName": "The Home of Football v7.7.0",
-  "releaseNotes": "- Release v7.7.0 - Tornei suddivisi per categorie iscritte, con un foglio giocatori per categoria\n- Tornei con piu' categorie iscritte, e un foglio giocatori per categoria",
-  "publishedAt": "2026-11-20T14:32:41Z",
-  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.7.0/THOF.apk",
+  "version": "7.8.0",
+  "tagName": "v7.8.0",
+  "versionCode": 543,
+  "releaseName": "The Home of Football v7.8.0",
+  "releaseNotes": "- Migrazioni: via la CREATE di un indice che il blocco dopo droppava (UniqueViolation a ogni avvio)\n- Tornei: nel \"Nuovo torneo\" il menu del Mister segue le categorie che spunti\n- Tornei: il menu del Mister offre i mister della categoria in cui stai lavorando\n- Tornei: i PDF prendono la forma di quelli del weekend, in un modulo condiviso\n- Tornei: il PDF di tutti i tornei della societa', e il filtro categoria filtra davvero\n- Tornei: il Mister e' del torneo, e il PDF dice chi chiamare\n- Tornei: export PDF per categoria e per tutte, pagina leggibile, e la verifica visiva nel repo\n- Tornei: prima le categorie, il torneo si ripete dentro ciascuna di esse\n- Registra l'apertura accettata: le password iniziali dei tesserati restano nella Gmail di relay\n- Basta bounce nella casella del titolare: i destinatari di prova li scarta postfix",
+  "publishedAt": "2026-11-20T18:55:32Z",
+  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.8.0/THOF.apk",
   "apkSizeMb": "5.1",
   "releasePageUrl": "https://github.com/andmor8277/thof-releases/releases/latest"
 }
