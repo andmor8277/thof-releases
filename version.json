@@ -1,11 +1,11 @@
 {
-  "version": "7.9.0",
-  "tagName": "v7.9.0",
-  "versionCode": 550,
-  "releaseName": "The Home of Football v7.9.0",
-  "releaseNotes": "- Release v7.9.0 - Liste Tornei e Convocazioni Tornei anche nella barra laterale e nel menu del telefono\n- build apk: Gradle preferiva IPv6 e la rete docker non ce l'ha\n- Tornei: Liste Tornei e Convocazioni Tornei escono dalle sole card e diventano voci di menu\n- AGENTS: il CF duplicato fra account e' il titolare, e il check char del CF non si scrive a memoria\n- Test PROD: su login_bloccaggi nemmeno \">=\" regge, perche' la svuota l'app di proposito",
-  "publishedAt": "2026-11-23T09:07:58Z",
-  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.9.0/THOF.apk",
+  "version": "7.10.0",
+  "tagName": "v7.10.0",
+  "versionCode": 557,
+  "releaseName": "The Home of Football v7.10.0",
+  "releaseNotes": "- AGENTS.md: il foglio di convocazione e' un solo modulo per due pagine, con i suoi gotcha",
+  "publishedAt": "2026-11-23T13:23:02Z",
+  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.10.0/THOF.apk",
   "apkSizeMb": "5.1",
   "releasePageUrl": "https://github.com/andmor8277/thof-releases/releases/latest"
 }
