@@ -1,11 +1,11 @@
 {
-  "version": "7.10.0",
-  "tagName": "v7.10.0",
-  "versionCode": 557,
-  "releaseName": "The Home of Football v7.10.0",
-  "releaseNotes": "- AGENTS.md: il foglio di convocazione e' un solo modulo per due pagine, con i suoi gotcha",
-  "publishedAt": "2026-11-23T13:23:02Z",
-  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.10.0/THOF.apk",
+  "version": "7.11.0",
+  "tagName": "v7.11.0",
+  "versionCode": 562,
+  "releaseName": "The Home of Football v7.11.0",
+  "releaseNotes": "- Release v7.11.0 - Registro presenze: si apre sui giorni di allenamento della settimana, usabile in verticale sul telefono\n- Registro: si apre sui giorni di allenamento della settimana, usabile in verticale\n- Lavagna: guard-rail da 148 asserzioni, e i suoi gotcha in AGENTS.md\n- Tornei di Natale 2026/27: iscrive le categorie giuste, dry-run di default\n- AGENTS.md: il foglio di convocazione e' un solo modulo per due pagine, con i suoi gotcha",
+  "publishedAt": "2026-11-24T07:59:14Z",
+  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.11.0/THOF.apk",
   "apkSizeMb": "5.1",
   "releasePageUrl": "https://github.com/andmor8277/thof-releases/releases/latest"
 }
