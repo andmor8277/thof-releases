@@ -1,11 +1,11 @@
 {
-  "version": "7.11.0",
-  "tagName": "v7.11.0",
-  "versionCode": 562,
-  "releaseName": "The Home of Football v7.11.0",
-  "releaseNotes": "- Release v7.11.0 - Registro presenze: si apre sui giorni di allenamento della settimana, usabile in verticale sul telefono\n- Registro: si apre sui giorni di allenamento della settimana, usabile in verticale\n- Lavagna: guard-rail da 148 asserzioni, e i suoi gotcha in AGENTS.md\n- Tornei di Natale 2026/27: iscrive le categorie giuste, dry-run di default\n- AGENTS.md: il foglio di convocazione e' un solo modulo per due pagine, con i suoi gotcha",
-  "publishedAt": "2026-11-24T07:59:14Z",
-  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.11.0/THOF.apk",
-  "apkSizeMb": "5.1",
+  "version": "7.12.0",
+  "tagName": "v7.12.0",
+  "versionCode": 566,
+  "releaseName": "The Home of Football v7.12.0",
+  "releaseNotes": "- Release v7.12.0 - Esporta JPEG dei documenti che finiscono in chat: foglio convocazioni, calendario tornei, programmazione weekend\n- Export JPEG: il foglio usciva a 1/3 e 54 asserzioni dicevano verde\n- Export JPEG: il test provato che sa fallire, e i font non servivano\n- Esporta JPEG: l'immagine del PDF, non un secondo documento",
+  "publishedAt": "2026-11-24T11:52:50Z",
+  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.12.0/THOF.apk",
+  "apkSizeMb": "6.1",
   "releasePageUrl": "https://github.com/andmor8277/thof-releases/releases/latest"
 }
