@@ -1,11 +1,11 @@
 {
-  "version": "7.14.0",
-  "tagName": "v7.14.0",
-  "versionCode": 580,
-  "releaseName": "The Home of Football v7.14.0",
-  "releaseNotes": "- Release v7.14.0 - Il calendario gare di un torneo ora lo scrive chi quel torneo lo vede: il mister delle categorie iscritte, non qualunque mister. Orari senza secondi anche in home page, e tornei.categoria_id diventa davvero nullable come il modello dichiarava\n- Calendario gare: lo scrive chi quel torneo lo vede\n- Orari senza secondi + tornei filtrati per le categorie di chi guarda\n- AGENTS.md: il tag cancellato con || true e' una scelta accettata dal titolare\n- AGENTS.md: RETENTION_DAYS=14 e' una scelta del titolare, non un default dimenticato\n- Backup offsite: il cron cancellava il backup che aveva appena creato, da 60 giorni\n- Lavagna: i 132 elementi con un tipo sconosciuto tornano a dipingersi\n- Lavagna: Jolly e Portiere pieni con la loro lettera, via il pulsante \"Giocatore\"\n- test(lavagna): misura statica delle 4 serializzazioni, e la prova che sa fallire\n- AGENTS.md: il 'trasferisci l'APK sui telefoni' dello script non e' un passo da fare",
-  "publishedAt": "2026-11-25T14:00:23Z",
-  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.14.0/THOF.apk",
+  "version": "7.15.0",
+  "tagName": "v7.15.0",
+  "versionCode": 584,
+  "releaseName": "The Home of Football v7.15.0",
+  "releaseNotes": "- Tornei: il menu a tendina delle categorie compare solo a chi le vede tutte (responsabili e segreteria). Un mister vede solo le sezioni delle proprie categorie\n- Il filtro categoria scritto nell'URL viene ignorato se non e' una categoria di chi guarda; il PDF dichiara solo i filtri davvero applicati\n- L'etichetta \"(non operativa)\" compare solo per le categorie davvero non operative",
+  "publishedAt": "2026-11-25T15:40:47Z",
+  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.15.0/THOF.apk",
   "apkSizeMb": "5.6",
   "releasePageUrl": "https://github.com/andmor8277/thof-releases/releases/latest"
 }
