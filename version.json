@@ -1,11 +1,11 @@
 {
-  "version": "7.13.0",
-  "tagName": "v7.13.0",
-  "versionCode": 570,
-  "releaseName": "The Home of Football v7.13.0",
-  "releaseNotes": "- Release v7.13.0 - Etichette dei pulsanti di export allineate: \"Ambito (PDF)\" / \"Ambito (immagine)\"; bundle 762 KB piu' leggero (font che pdf.js non chiede mai)\n- Export: le 9 coppie di pulsanti dicono la stessa cosa, cambia solo il formato\n- README: era fermo alla v7.4.0 da 12 release, e adesso lo aggiorna release.sh\n- Export JPEG: via i 762 KB di font che pdf.js non chiede mai",
-  "publishedAt": "2026-11-24T14:14:00Z",
-  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.13.0/THOF.apk",
+  "version": "7.14.0",
+  "tagName": "v7.14.0",
+  "versionCode": 576,
+  "releaseName": "The Home of Football v7.14.0",
+  "releaseNotes": "- Release v7.14.0 - Il calendario gare di un torneo ora lo scrive chi quel torneo lo vede: il mister delle categorie iscritte, non qualunque mister. Orari senza secondi anche in home page, e tornei.categoria_id diventa davvero nullable come il modello dichiarava\n- Calendario gare: lo scrive chi quel torneo lo vede\n- Orari senza secondi + tornei filtrati per le categorie di chi guarda\n- AGENTS.md: il tag cancellato con || true e' una scelta accettata dal titolare\n- AGENTS.md: RETENTION_DAYS=14 e' una scelta del titolare, non un default dimenticato\n- Backup offsite: il cron cancellava il backup che aveva appena creato, da 60 giorni",
+  "publishedAt": "2026-11-25T12:14:49Z",
+  "apkDownloadUrl": "https://github.com/andmor8277/thof-releases/releases/download/v7.14.0/THOF.apk",
   "apkSizeMb": "5.6",
   "releasePageUrl": "https://github.com/andmor8277/thof-releases/releases/latest"
 }
